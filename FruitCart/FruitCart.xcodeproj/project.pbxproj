@@ -21,6 +21,10 @@
 		555E433C16B852FF00696EF1 /* Fruit.m in Sources */ = {isa = PBXBuildFile; fileRef = 555E433616B852FF00696EF1 /* Fruit.m */; };
 		555E433D16B852FF00696EF1 /* Apple.m in Sources */ = {isa = PBXBuildFile; fileRef = 555E433816B852FF00696EF1 /* Apple.m */; };
 		555E433E16B852FF00696EF1 /* GoldDelicious.m in Sources */ = {isa = PBXBuildFile; fileRef = 555E433B16B852FF00696EF1 /* GoldDelicious.m */; };
+		5FB944A516C3484700EA81E5 /* Vegetable.m in Sources */ = {isa = PBXBuildFile; fileRef = 5FB944A416C3484700EA81E5 /* Vegetable.m */; };
+		5FB944A816C3494E00EA81E5 /* Potato.m in Sources */ = {isa = PBXBuildFile; fileRef = 5FB944A716C3494E00EA81E5 /* Potato.m */; };
+		5FB944AB16C3497800EA81E5 /* Onion.m in Sources */ = {isa = PBXBuildFile; fileRef = 5FB944AA16C3497800EA81E5 /* Onion.m */; };
+		5FB944AE16C3498800EA81E5 /* Pumpkin.m in Sources */ = {isa = PBXBuildFile; fileRef = 5FB944AD16C3498800EA81E5 /* Pumpkin.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,6 +50,14 @@
 		555E433916B852FF00696EF1 /* Fruit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Fruit.h; sourceTree = "<group>"; };
 		555E433A16B852FF00696EF1 /* GoldDelicious.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GoldDelicious.h; sourceTree = "<group>"; };
 		555E433B16B852FF00696EF1 /* GoldDelicious.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GoldDelicious.m; sourceTree = "<group>"; };
+		5FB944A316C3484700EA81E5 /* Vegetable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Vegetable.h; sourceTree = "<group>"; };
+		5FB944A416C3484700EA81E5 /* Vegetable.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Vegetable.m; sourceTree = "<group>"; };
+		5FB944A616C3494E00EA81E5 /* Potato.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Potato.h; sourceTree = "<group>"; };
+		5FB944A716C3494E00EA81E5 /* Potato.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Potato.m; sourceTree = "<group>"; };
+		5FB944A916C3497800EA81E5 /* Onion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Onion.h; sourceTree = "<group>"; };
+		5FB944AA16C3497800EA81E5 /* Onion.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Onion.m; sourceTree = "<group>"; };
+		5FB944AC16C3498800EA81E5 /* Pumpkin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Pumpkin.h; sourceTree = "<group>"; };
+		5FB944AD16C3498800EA81E5 /* Pumpkin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Pumpkin.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +138,14 @@
 				555E433616B852FF00696EF1 /* Fruit.m */,
 				555E433A16B852FF00696EF1 /* GoldDelicious.h */,
 				555E433B16B852FF00696EF1 /* GoldDelicious.m */,
+				5FB944A316C3484700EA81E5 /* Vegetable.h */,
+				5FB944A416C3484700EA81E5 /* Vegetable.m */,
+				5FB944A616C3494E00EA81E5 /* Potato.h */,
+				5FB944A916C3497800EA81E5 /* Onion.h */,
+				5FB944AA16C3497800EA81E5 /* Onion.m */,
+				5FB944AC16C3498800EA81E5 /* Pumpkin.h */,
+				5FB944AD16C3498800EA81E5 /* Pumpkin.m */,
+				5FB944A716C3494E00EA81E5 /* Potato.m */,
 			);
 			name = Fruits;
 			sourceTree = "<group>";
@@ -202,6 +222,10 @@
 				555E433C16B852FF00696EF1 /* Fruit.m in Sources */,
 				555E433D16B852FF00696EF1 /* Apple.m in Sources */,
 				555E433E16B852FF00696EF1 /* GoldDelicious.m in Sources */,
+				5FB944A516C3484700EA81E5 /* Vegetable.m in Sources */,
+				5FB944A816C3494E00EA81E5 /* Potato.m in Sources */,
+				5FB944AB16C3497800EA81E5 /* Onion.m in Sources */,
+				5FB944AE16C3498800EA81E5 /* Pumpkin.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -324,6 +348,7 @@
 				555E433516B84E1E00696EF1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
